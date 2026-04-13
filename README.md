@@ -2,7 +2,7 @@
 **A Comparative Evaluation of Classical and Transformer Based Architectures for Multi Class Cyberbullying Detection in Social Media**
 
 ## Selected Theme
-**Multi Class Cyberbullying Classification**
+Multi Class Cyberbullying Classification
 
 ## Brief Description
 The project will addresses the critical challenge of identifying and categorizing multiple forms of online harassment, that includes ethnicity, religion, gender, and age-based bullying. 
